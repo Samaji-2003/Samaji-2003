@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm K.L.D.S. Dulmini
+# 👋 Hi, I'm K.L.D.Samaji Dulmini
 
 ### 💻 Computer Science Undergraduate | Aspiring Software Engineer
 

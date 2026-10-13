@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Samaji-2003&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 <div align="center">
@@ -106,12 +106,12 @@ A console-based Ludo game simulation developed using C.
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Samaji-2003&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Statistics"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samaji-2003&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
@@ -119,7 +119,7 @@ A console-based Ludo game simulation developed using C.
 <p align="center">
   <img
     width="70%"
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Samaji-2003&theme=tokyonight&hide_border=true"
     alt="GitHub Contribution Streak"
   />
 </p>
@@ -130,7 +130,7 @@ A console-based Ludo game simulation developed using C.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Samaji-2003/Samaji-2003/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake Animation"
   />
 </p>
@@ -141,15 +141,15 @@ A console-based Ludo game simulation developed using C.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://www.linkedin.com/in/samaji-dulmini-7829a7373">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/samaji-dulmini-7829a7373">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:samajidulmini@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
